@@ -9,3 +9,4 @@ https://www.kaggle.com/c/fr-domain-classification
 + **Kevin XU** - *Master 2 Data Science student* - [kevinxu-git](https://github.com/kevinxu-git)
 + **Pierre ADEIKALAM** - *Master 2 Data Science student*
 + **Guangyue CHEN** - *Master 2 Data Science student* 
+
