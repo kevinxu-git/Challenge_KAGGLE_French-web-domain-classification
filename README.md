@@ -1,4 +1,4 @@
-# Challenge Kaggle : French web domain classification
+# Challenge Kaggle : French web domain classification - 08/03/2020
 
 https://www.kaggle.com/c/fr-domain-classification
 
